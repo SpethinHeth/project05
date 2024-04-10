@@ -1,0 +1,115 @@
+# p05input4.txt - DeleteMax(), ReheapDown(), MakeEmpty(), Size(), Capacity() for ItemType = Task
+
+# Test DeleteMax(), MakeEmpty() Error Handling
+c Task
+p
+s
+m
+-
+p
+s
+m
+d
+
+# Test DeleteMax(), ReheapDown()
+c Task
++ 16 echo
++ 25 hotel
++ 5 bravo
++ 12 delta
+p
+s
+m
+-
+p
+s
+m
++ 2 alpha
++ 7 charlie
++ 20 golf
++ 18 foxtrot
+p
+s
+m
+-
+p
+s
+m
+-
+p
+s
+m
++ 33 india
+p
+s
+m
+-
+p
+s
+m
+-
+p
+s
+m
+-
+p
+s
+m
+-
+p
+s
+m
+-
+p
+s
+m
+-
+p
+s
+m
+-
+p
+s
+m
+d
+
+
+# Test MakeEmpty()
+c Task
++ 16 echo
++ 25 hotel
++ 5 bravo
++ 12 delta
+p
+s
+m
+e
+p
+s
+m
++ 2 alpha
++ 7 charlie
++ 20 golf
++ 18 foxtrot
++ 33 india
++ 16 echo
++ 25 hotel
++ 5 bravo
++ 12 delta
+p
+s
+m
+e
+p
+s
+m
+e
+p
+s
+m
+d
+
+
+
+
+

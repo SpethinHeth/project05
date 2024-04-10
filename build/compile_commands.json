@@ -1,0 +1,12 @@
+[
+{
+  "directory": "C:/Users/Seth/Desktop/School_Stuff/CPE212_Spring24/project05/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -o CMakeFiles\\test_project.dir\\main.cpp.obj -c C:\\Users\\Seth\\Desktop\\School_Stuff\\CPE212_Spring24\\project05\\main.cpp",
+  "file": "C:/Users/Seth/Desktop/School_Stuff/CPE212_Spring24/project05/main.cpp"
+},
+{
+  "directory": "C:/Users/Seth/Desktop/School_Stuff/CPE212_Spring24/project05/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -g -o CMakeFiles\\test_project.dir\\task.cpp.obj -c C:\\Users\\Seth\\Desktop\\School_Stuff\\CPE212_Spring24\\project05\\task.cpp",
+  "file": "C:/Users/Seth/Desktop/School_Stuff/CPE212_Spring24/project05/task.cpp"
+}
+]

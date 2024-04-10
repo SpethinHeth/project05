@@ -1,0 +1,115 @@
+# p05input2.txt - DeleteMax(), ReheapDown(), MakeEmpty(), Size(), Capacity() for ItemType = int
+
+# Test DeleteMax() Error Handling
+c int
+p
+s
+m
+-
+p
+s
+m
+d
+
+# Test DeleteMax(), ReheapDown()
+c int
++ 16
++ 25
++ 5
++ 12
+p
+s
+m
+-
+p
+s
+m
++ 2
++ 7
++ 20
++ 18
+p
+s
+m
+-
+p
+s
+m
+-
+p
+s
+m
++ 33
+p
+s
+m
+-
+p
+s
+m
+-
+p
+s
+m
+-
+p
+s
+m
+-
+p
+s
+m
+-
+p
+s
+m
+-
+p
+s
+m
+-
+p
+s
+m
+d
+
+
+# Test MakeEmpty()
+c int
++ 16
++ 25
++ 5
++ 12
+p
+s
+m
+e
+p
+s
+m
++ 2
++ 7
++ 20
++ 18
++ 33
++ 16
++ 25
++ 5
++ 12
+p
+s
+m
+e
+p
+s
+m
+e
+p
+s
+m
+d
+
+
+
+
+

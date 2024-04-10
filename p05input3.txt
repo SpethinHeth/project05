@@ -1,0 +1,132 @@
+# p05input3.txt - Test SmartHeap(), ~SmartHeap(), Insert(), ReheapUp(), Size(), Capacity() for ItemType = Task
+
+# Test SmartHeap(), ~SmartHeap(), Size(), Capacity()
+c Task
+p
+s
+m
+d
+
+# Test SmartHeap(), ~SmartHeap(), Insert(), ReheapUp(), Size(), Capacity() - random sequence, single resize
+c Task
+p 
+s
+m
++ 16 echo
+p
+s
+m
++ 25 hotel
+p
+s
+m
++ 5 bravo
+p
+s
+m
++ 12 delta
+p
+s
+m
++ 20 golf
+p
+s
+m
+d
+
+# Test SmartHeap(), ~SmartHeap(), Insert(), ReheapUp(), Size(), Capacity() - sorted small to large, single resize
+c Task
+p 
+s
+m
++ 5 bravo
+p
+s
+m
++ 12 delta
+p
+s
+m
++ 16 echo
+p
+s
+m
++ 20 golf
+p
+s
+m
++ 25 hotel
+p
+s
+m
+d
+
+# Test SmartHeap(), ~SmartHeap(), Insert(), ReheapUp(), Size(), Capacity() - sorted large to small, single resize
+c Task
+p 
+s
+m
++ 25 hotel
+p
+s
+m
++ 20 golf
+p
+s
+m
++ 16 echo
+p
+s
+m
++ 12 delta
+p
+s
+m
++ 5 bravo
+p
+d
+
+# Test SmartHeap(), ~SmartHeap(), Insert(), ReheapUp(), Size(), Capacity() - random sequence, double resize
+c Task
+p 
+s
+m
++ 16 echo
+p
+s
+m
++ 25 hotel
+p
+s
+m
++ 5 bravo
+p
+s
+m
++ 12 delta
+p
+s
+m
++ 20 golf
+p
+s
+m
++ 18 foxtrot
+p
+s
+m
++ 7 charlie
+p
+s
+m
++ 33 india
+p
+s
+m
++ 2 alpha
+p
+s
+m
+d
+
+
